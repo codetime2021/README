@@ -2,6 +2,9 @@
 Security and About Me
 ---------------------------------------------------
 codetime2021@hotmail.com
+
+Linkedin
+https://www.linkedin.com/in/peter-miller-b7610b226/
 **************************************************************************************
 # Security Policy
 I write the places I quote. Mail for complaints, vulnerabilities and code consultancy
@@ -16,3 +19,6 @@ codetime2021@hotmail.com
 
 Twitter
 @codetime2021
+
+Linkedin
+https://www.linkedin.com/in/peter-miller-b7610b226/

@@ -13,3 +13,6 @@ software and coding.I'm originally from Canada/America
 . But I'm in Vietnam for work...
 **************************************************************************************
 codetime2021@hotmail.com
+
+Twitter
+@codetime2021
